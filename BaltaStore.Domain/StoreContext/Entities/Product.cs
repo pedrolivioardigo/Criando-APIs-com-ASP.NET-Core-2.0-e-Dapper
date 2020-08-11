@@ -24,5 +24,5 @@ namespace BaltaStore.Domain.StoreContext.Entities
             return Title;
         }
         
-        //testeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+        
 }
