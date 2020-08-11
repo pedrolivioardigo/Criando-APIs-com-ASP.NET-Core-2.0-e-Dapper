@@ -1,0 +1,9 @@
+C:\Users\Pedro Ardigó\Aulas\BaltaStore\BaltaStore.Infra\bin\Debug\netstandard2.0\BaltaStore.Infra.deps.json
+C:\Users\Pedro Ardigó\Aulas\BaltaStore\BaltaStore.Infra\bin\Debug\netstandard2.0\BaltaStore.Infra.dll
+C:\Users\Pedro Ardigó\Aulas\BaltaStore\BaltaStore.Infra\bin\Debug\netstandard2.0\BaltaStore.Infra.pdb
+C:\Users\Pedro Ardigó\Aulas\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.csprojAssemblyReference.cache
+C:\Users\Pedro Ardigó\Aulas\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.AssemblyInfoInputs.cache
+C:\Users\Pedro Ardigó\Aulas\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.AssemblyInfo.cs
+C:\Users\Pedro Ardigó\Aulas\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Ardigó\Aulas\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.dll
+C:\Users\Pedro Ardigó\Aulas\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.pdb

@@ -1,0 +1,8 @@
+C:\Users\Pedro Ardigó\Aulas\BaltaStore\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Domain.deps.json
+C:\Users\Pedro Ardigó\Aulas\BaltaStore\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Domain.dll
+C:\Users\Pedro Ardigó\Aulas\BaltaStore\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Domain.pdb
+C:\Users\Pedro Ardigó\Aulas\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.AssemblyInfoInputs.cache
+C:\Users\Pedro Ardigó\Aulas\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.AssemblyInfo.cs
+C:\Users\Pedro Ardigó\Aulas\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Ardigó\Aulas\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.dll
+C:\Users\Pedro Ardigó\Aulas\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.pdb
