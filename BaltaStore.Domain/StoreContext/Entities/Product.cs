@@ -22,7 +22,7 @@ namespace BaltaStore.Domain.StoreContext.Entities
         public override string ToString()
         {
             return Title;
-        }
-        
-        
+        }   
+           
+     }
 }
